@@ -1,6 +1,4 @@
 {
     "terminal.integrated.shell.osx": "zsh",
     "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
-    "test.setting" : "setting"
-
 }
